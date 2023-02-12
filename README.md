@@ -1,5 +1,5 @@
 # Model-Selection-of-Clustering
-This is a coursework deliverd by University of Glasgow, Machine Learning & Artificial Intelligence for Data Scientists.
+This is a coursework deliverd by University of Glasgow, Machine Learning & Artificial Intelligence for Data Scientists. 
 And was completed in a group with Weijian Ning.
 
 ## Model selection for Clustering

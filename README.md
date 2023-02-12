@@ -1,13 +1,13 @@
 # Model-Selection-of-Clustering
-This is a coursework deliverd by University of Glasgow, Machine Learning & Artificial Intelligence for Data Scientists. 
+This is a coursework deliverd by University of Glasgow, Machine Learning & Artificial Intelligence for Data Scientists.  
 And was completed in a group with Weijian Ning.
 
 ## Model selection for Clustering
 Clustering is unsupervised learning: the resulting clusters are completely derived from data distributed in given a feature set with no class available
 
 Compared to supervised learning counterparts, it is ...
-*hard to define model performance (cluster quality)
-*sensitive to different clustering algorithms and different feature spaces.
+* hard to define model performance (cluster quality)
+* sensitive to different clustering algorithms and different feature spaces.
 
 ## Task
 We try different clustering algorithms and also a range of the potential parameter(s) which affect the number of clusters including ..

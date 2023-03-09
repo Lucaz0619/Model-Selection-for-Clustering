@@ -40,4 +40,4 @@ To assess quality of clustering solutions, several approaches are expected to be
 * Adjust Rand Index
 * Clusters visualisations
 
-For more the final report, please have a check in the .pdf file.
+For the final report, please have a check in the .pdf file.
